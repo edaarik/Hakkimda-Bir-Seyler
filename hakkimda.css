@@ -1,0 +1,36 @@
+.light-pink {
+    background-color: #ffedfa;
+}
+.pink {
+    background-color: #e195ab;
+}
+.dark-pink {
+    background-color: #de3163;
+}
+.sage {
+    background-color: #ccdf92;
+}
+.header {
+    width: 1500px;
+    height: 100px;
+    margin: 2% auto;
+    
+}
+.container {
+    width: 1300px;
+    margin: auto;
+}
+.box_header  {
+    width: 10%;
+    height: 90%;
+    margin: 1.5%;
+    padding: 1%;
+    float: left;
+
+}
+.text-header {
+    font-size: 20px;
+    text-decoration: none;
+    color:#de3163 ;
+
+}
