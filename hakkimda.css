@@ -10,27 +10,48 @@
 .sage {
     background-color: #ccdf92;
 }
+.white {
+    background-color: white;
+}
 .header {
     width: 1500px;
     height: 100px;
     margin: 2% auto;
+    border-radius: 40px;
     
 }
 .container {
     width: 1300px;
     margin: auto;
 }
+.container2 {
+    width: 1300px;
+    
+}
 .box_header  {
     width: 10%;
     height: 90%;
-    margin: 1.5%;
+    margin: 1.5% 0% 1.5% 16%;
     padding: 1%;
     float: left;
+    border-radius: 20px;
 
 }
 .text-header {
     font-size: 20px;
     text-decoration: none;
     color:#de3163 ;
-
+}
+.box-li {
+    width: 40%;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 30px;
+    float: left;
+}
+.box-p {
+    width: 90%;
+    margin: 5% 3% ;
+    padding: 1%;
+    border-radius: 30px;
 }
